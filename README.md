@@ -1,4 +1,4 @@
-<a href="https://ycwhencpp.github.io/"><img src="https://typograssy.deno.dev/api?text=HI%20AM%20ANURAG&l1=1e7703&l2=256010&l3=3d9456&comment=" width="900"></a>
+<a href="https://ycwhencpp.github.io/"><img src="name.png" width="900"></a>
  
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
 

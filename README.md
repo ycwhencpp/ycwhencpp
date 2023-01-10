@@ -5,9 +5,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ycwhencpp?style=social)](https://twitter.com/intent/follow?screen_name=ycwhencpp) 
 [![GitHub followers](https://img.shields.io/github/followers/ycwhencpp?label=Follow&style=social)](https://github.com/ycwhencpp) 
 [![Website](https://img.shields.io/badge/ycwhencpp.dev--green?style=social&logo=google%20chrome)](https://https://ycwhencpp.github.io/) 
-[![Linkedin](https://github.com/ycwhencpp/ycwhencpp/blob/master/badges/linkedin-ar21.svg)](https://www.linkedin.com/in/anurag-chaudhary-4576191a0/)
 
-> Note: This is not my real contribution graph :winking:
+> Note: This is not my real contribution graph ;)
 
 Hi, I'm [Anurag Choudhary](https://ycwhencpp.github.io) A FullStack Developer From Delhi,India:
 
